@@ -5,9 +5,9 @@ The project is about building a web API (HTTP/WebSocket) and an appropriate web 
 
 The website - kindly hosted by GitHub Pages - is online at this address: https://gianluca-nitti.github.io/GSoC-2017-devlog/
 
-# Links
+## Links
 - The main repository where the project is being developed is FacadeServer ([offical MovingBlocks upstream](https://github.com/MovingBlocks/FacadeServer) - [my fork](https://github.com/gianluca-nitti/FacadeServer)).
 - [Here](https://github.com/orgs/MovingBlocks/projects/5) you can find the project board.
 
-# Credits
+## Credits
 The website is based on [this template](https://github.com/MovingBlocks/DevlogTemplate).
