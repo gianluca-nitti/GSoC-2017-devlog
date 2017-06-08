@@ -15,15 +15,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable  }}.
 
-name: ???
-title: GSOC Devlog
-description: Tracking progress on ProjectX
+name: Gianluca Nitti
+title: GSoC Devlog
+description: Tracking progress on "Server API" Google Summer of Code project with MovingBlocks
 
-gh_name: ???
-gh_commits: https://www.github.com/MovingBlocks/Terasology/commits/?author=???
-gh_prs: https://github.com/MovingBlocks/Terasology/pulls?utf8=%E2%9C%93&q=is:pr+author:??
-gh_issues: https://github.com/MovingBlocks/Terasology/issues?utf8=%E2%9C%93&q=is:issue+author:???
-gh_project: https://www.github.com/MovingBlocks/Terasology
+gh_name: gianluca-nitti
+gh_commits: https://www.github.com/gianluca-nitti/FacadeServer/commits/?author=gianluca-nitti
+gh_prs: https://github.com/MovingBlocks/FacadeServer/pulls?utf8=%E2%9C%93&q=is:pr+author:gianluca-nitti
+gh_issues: https://github.com/MovingBlocks/FacadeServer/issues?utf8=%E2%9C%93&q=is:issue+author:gianluca-nitti
+gh_project: https://www.github.com/gianluca-nitti/FacadeServer
 
 # -------------------------------------
 # Build Settings
@@ -31,4 +31,4 @@ gh_project: https://www.github.com/MovingBlocks/Terasology
 markdown: kramdown
 future: true
 encodig: utf-8
-highlighter: rogue
+highlighter: rouge
