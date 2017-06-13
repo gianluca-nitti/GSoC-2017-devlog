@@ -32,3 +32,4 @@ markdown: kramdown
 future: true
 encodig: utf-8
 highlighter: rouge
+baseurl: /GSoC-2017-devlog
